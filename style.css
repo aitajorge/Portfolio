@@ -1,0 +1,61 @@
+.bg-darkgray {
+    background-color: rgb(95, 93, 93);
+}
+.list-group {
+    --bs-list-group-bg: transparent;
+}
+ {
+background-color: #4242f3;
+
+}
+   
+i.fa-brands.fa-linkedin.fa-2x.text-white:hover {
+    --bs-text-opacity: 1;
+    color: #4242f3 !important;
+}
+
+i.fa-brands.fa-facebook.fa-2.text-white:hover {
+    --bs-text-opacity: 1;
+    color: #4242f3 !important;   
+}
+
+i.fa-brands.fa-instagram.fa-2x.text-white:hover {
+    --bs-text-opacity: 1;
+    color: #4242f3 !important;      
+}
+
+i.fa-brands.fa-twitter.fa-2x.text-white:hover {
+    --bs-text-opacity: 1;
+    color: #4242f3 !important;      
+}
+
+i.fa-brands.fa-github.fa-2x.text-white:hover {
+    --bs-text-opacity: 1;
+    color: #4242f3 !important;      
+}
+section.banner{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.9)
+    ), url(jorgeaita.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+
+    }
+    h3.intro {
+        padding-top: 15%;  
+        font-size: 3rem;   
+    }
+    h1.intro {
+        font-size: 4.5rem;
+    }
+    h2.intro {
+        font-size: 3.25rem;
+    }
